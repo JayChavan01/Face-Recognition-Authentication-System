@@ -45,7 +45,7 @@ python manage.py runserver
 
 | Registration | Login | Dashboard |  
 |-------------|-------|-----------|  
-| ![Register](pictures/register.png) | ![Login](pictures/login.png) | ![Dashboard](pictures/dashboard.png) |  
+| ![Register](pictures/register.png) | ![Login](pictures/login.png) | ![Dashboard](Pictures/Dashboard.png) |  
 
 ---
 
