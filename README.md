@@ -41,12 +41,21 @@ python manage.py runserver
 
 ---
 
-## **📸 Screenshots**  
+## **📸 Pictures**  
 
-| Home | Registration | Login | Dashboard |  
-|-------------|-------|-----------|  
-| ![Home](Pictures/Home.png) | ![Register](Pictures/Register.png) | ![Login](Pictures/Login.png) | ![Dashboard](Pictures/Dashboard.png) |   
+| Page | Screenshot | Description |
+|------|-----------|-------------|
+| **Home** | ![Home](Pictures/Home.png) | Landing page with auth options |
+| **Registration** | ![Register](Pictures/Register.png) | Face capture during signup |
+| **Login** | ![Login](Pictures/Login.png) | Real-time face authentication |
+| **Dashboard** | ![Dashboard](Pictures/Dashboard.png) | User profile after successful login |
 
+<div align="center">
+  <img src="Pictures/Home.png" width="200" title="Home">
+  <img src="Pictures/Register.png" width="200" title="Registration"> 
+  <img src="Pictures/Login.png" width="200" title="Login">
+  <img src="Pictures/Dashboard.png" width="200" title="Dashboard">
+</div>
 ---
 
 ## **⚙️ How It Works**  
