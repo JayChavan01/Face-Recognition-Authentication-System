@@ -56,6 +56,7 @@ python manage.py runserver
   <img src="Pictures/Login.png" width="200" title="Login">
   <img src="Pictures/Dashboard.png" width="200" title="Dashboard">
 </div>
+
 ---
 
 ## **⚙️ How It Works**  
