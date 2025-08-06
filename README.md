@@ -43,7 +43,7 @@ python manage.py runserver
 
 ## **📸 Screenshots**  
 
-| Registration | Login | Dashboard |  
+| Home | Registration | Login | Dashboard |  
 |-------------|-------|-----------|  
 | ![Home](Pictures/Home.png) | ![Register](Pictures/Register.png) | ![Login](Pictures/Login.png) | ![Dashboard](Pictures/Dashboard.png) |   
 
@@ -95,20 +95,5 @@ def verify_face(stored_encoding, live_encoding, tolerance=0.6):
 ---
 
 ## **📄 License**  
-MIT © 2024 [Your Name]  
+MIT © 2025 [Jay Chavan]  
 
----
-
-**🌟 Pro Tip:** Add this to your resume under "Projects" with the badge:  
-```markdown
-![FaceAuth](https://img.shields.io/badge/Project-FaceAuth_System-blue)
-```
-
-This version:  
-✅ Uses GitHub-flavored markdown  
-✅ Includes visual badges/metrics  
-✅ Provides copy-paste code snippets  
-✅ Has clear CTAs (Installation/Demo)  
-✅ Is mobile-responsive  
-
-Want me to add deployment instructions (Docker/Heroku)? 😊
