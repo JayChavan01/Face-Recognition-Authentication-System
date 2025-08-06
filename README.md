@@ -43,18 +43,25 @@ python manage.py runserver
 
 ## **📸 Pictures**  
 
+<p align="center">
+
 | Page | Screenshot | Description |
-|------|-----------|-------------|
-| **Home** | ![Home](Pictures/Home.png) | Landing page with auth options |
-| **Registration** | ![Register](Pictures/Register.png) | Face capture during signup |
-| **Login** | ![Login](Pictures/Login.png) | Real-time face authentication |
-| **Dashboard** | ![Dashboard](Pictures/Dashboard.png) | User profile after successful login |
+|:----:|:---------:|:-----------:|
+| **Home** | <img src="Pictures/Home.png" width="85%"> | Landing page with auth options |
+| **Registration** | <img src="Pictures/Register.png" width="85%"> | Face capture during signup |
+| **Login** | <img src="Pictures/Login.png" width="85%"> | Real-time face authentication |
+| **Dashboard** | <img src="Pictures/Dashboard.png" width="85%"> | User profile after successful login |
+
+</p>
 
 <div align="center">
-  <img src="Pictures/Home.png" width="200" title="Home">
-  <img src="Pictures/Register.png" width="200" title="Registration"> 
-  <img src="Pictures/Login.png" width="200" title="Login">
-  <img src="Pictures/Dashboard.png" width="200" title="Dashboard">
+  
+**Visual Walkthrough**  
+<img src="Pictures/Home.png" width="200" hspace="20" title="Home">
+<img src="Pictures/Register.png" width="200" hspace="20" title="Registration"> 
+<img src="Pictures/Login.png" width="200" hspace="20" title="Login">
+<img src="Pictures/Dashboard.png" width="200" hspace="20" title="Dashboard">
+
 </div>
 
 ---
