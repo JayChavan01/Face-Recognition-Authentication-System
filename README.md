@@ -258,19 +258,15 @@ COPY . .
 EXPOSE 8000
 CMD ["gunicorn", "config.wsgi:application", "--bind", "0.0.0.0:8000"]
 ```
-
----
-
 ## **🎥 Live Demonstration**
 
 <div align="center">
 
-[![Watch the Demo](https://img.youtube.com/vi/WWBBPoFYo_Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=WWBBPoFYo_Q)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=Watch%20Video%20Demo)](https://www.youtube.com/watch?v=WWBBPoFYo_Q)
 
-*Click the image above to watch the full system demonstration*
+*Watch the full system demonstration*
 
 </div>
-
 ---
 
 ## **🌟 Future Roadmap**
