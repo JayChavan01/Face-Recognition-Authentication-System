@@ -100,7 +100,7 @@ def verify_face(stored_encoding, live_encoding, tolerance=0.6):
 ---
 
 ## **🎥 Video Demo**  
-[![Demo Video](https://youtu.be/WWBBPoFYo_Q)  
+[![Demo Video](https://www.youtube.com/watch?v=WWBBPoFYo_Q)  
 
 ---
 
