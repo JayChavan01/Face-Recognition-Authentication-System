@@ -89,41 +89,43 @@ graph TD
 
 ## **🎯 Interface Showcase**
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+<div align="center">
 
-<div style="text-align: center; flex: 1; min-width: 200px;">
-<a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Landing%20Page%20-%20Your%20Gateway%20to%20Secure%20Access.png">
-<img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Landing%20Page%20-%20Your%20Gateway%20to%20Secure%20Access.png" width="180" height="120" alt="Landing Page" style="border-radius: 8px; border: 2px solid #e1e4e8;">
-</a>
-<br>
-<strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Landing%20Page%20-%20Your%20Gateway%20to%20Secure%20Access.png">Landing Page</a></strong>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Landing%20Page%20-%20Your%20Gateway%20to%20Secure%20Access.png">
+        <img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Landing%20Page%20-%20Your%20Gateway%20to%20Secure%20Access.png" width="180" height="120" alt="Landing Page" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      </a>
+      <br>
+      <strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Landing%20Page%20-%20Your%20Gateway%20to%20Secure%20Access.png">Landing Page</a></strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Registration%20-%20One-Time%20Face%20Enrollment.png">
+        <img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Registration%20-%20One-Time%20Face%20Enrollment.png" width="180" height="120" alt="Registration" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      </a>
+      <br>
+      <strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Registration%20-%20One-Time%20Face%20Enrollment.png">Registration</a></strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Authentication%20-%20Seamless%20Face%20Recognition.png">
+        <img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Authentication%20-%20Seamless%20Face%20Recognition.png" width="180" height="120" alt="Authentication" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      </a>
+      <br>
+      <strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Authentication%20-%20Seamless%20Face%20Recognition.png">Authentication</a></strong>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Dashboard%20-%20Personalized%20User%20Space.png">
+        <img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Dashboard%20-%20Personalized%20User%20Space.png" width="180" height="120" alt="Dashboard" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+      </a>
+      <br>
+      <strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Dashboard%20-%20Personalized%20User%20Space.png">Dashboard</a></strong>
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<div style="text-align: center; flex: 1; min-width: 200px;">
-<a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Registration%20-%20One-Time%20Face%20Enrollment.png">
-<img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Registration%20-%20One-Time%20Face%20Enrollment.png" width="180" height="120" alt="Registration" style="border-radius: 8px; border: 2px solid #e1e4e8;">
-</a>
-<br>
-<strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Registration%20-%20One-Time%20Face%20Enrollment.png">Registration</a></strong>
-</div>
-
-<div style="text-align: center; flex: 1; min-width: 200px;">
-<a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Authentication%20-%20Seamless%20Face%20Recognition.png">
-<img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Authentication%20-%20Seamless%20Face%20Recognition.png" width="180" height="120" alt="Authentication" style="border-radius: 8px; border: 2px solid #e1e4e8;">
-</a>
-<br>
-<strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Authentication%20-%20Seamless%20Face%20Recognition.png">Authentication</a></strong>
-</div>
-
-<div style="text-align: center; flex: 1; min-width: 200px;">
-<a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Dashboard%20-%20Personalized%20User%20Space.png">
-<img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Dashboard%20-%20Personalized%20User%20Space.png" width="180" height="120" alt="Dashboard" style="border-radius: 8px; border: 2px solid #e1e4e8;">
-</a>
-<br>
-<strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Dashboard%20-%20Personalized%20User%20Space.png">Dashboard</a></strong>
-</div>
-
-</div>
 
 ---
 
@@ -264,9 +266,9 @@ CMD ["gunicorn", "config.wsgi:application", "--bind", "0.0.0.0:8000"]
 
 [![YouTube Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=Watch%20Video%20Demo)](https://www.youtube.com/watch?v=WWBBPoFYo_Q)
 
-*Watch the full system demonstration*
-
+*Watch the complete demonstration of the system.*
 </div>
+
 ---
 
 ## **🌟 Future Roadmap**
@@ -325,15 +327,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-<div align="center">
 
-## **⭐ Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=JayChavan25/FaceAuth-Django&type=Date)](https://star-history.com/#JayChavan25/FaceAuth-Django&Date)
-
-**If this project helped you, please consider giving it a ⭐!**
-
----
 **Built with ❤️ by [Jay Chavan]** • **Making Authentication Seamless & Secure**
 
 </div>
