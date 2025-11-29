@@ -100,7 +100,7 @@ def verify_face(stored_encoding, live_encoding, tolerance=0.6):
 ---
 
 ## **🎥 Video Demo**  
-[![Demo Video]("C:\Users\delll\Videos\Screen Recordings\Screen Recording 2025-11-29 124110.mp4")  
+[![Demo Video](https://youtu.be/WWBBPoFYo_Q)  
 
 ---
 
