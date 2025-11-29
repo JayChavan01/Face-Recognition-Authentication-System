@@ -92,16 +92,16 @@ graph TD
 <div align="center">
 
 ### **Landing Page** - *Your Gateway to Secure Access*
-<img src="Pictures/Home.png" width="90%" alt="Landing Page" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="Media/Landing Page - Your Gateway to Secure Access.png" width="90%" alt="Landing Page" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ### **Registration** - *One-Time Face Enrollment*
-<img src="Pictures/Register.png" width="90%" alt="Registration" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="Media/Registration - One-Time Face Enrollment.png" width="90%" alt="Registration" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ### **Authentication** - *Seamless Face Recognition*
-<img src="Pictures/Login.png" width="90%" alt="Login" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="Media/Authentication - Seamless Face Recognition.png" width="90%" alt="Login" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ### **Dashboard** - *Personalized User Space*
-<img src="Pictures/Dashboard.png" width="90%" alt="Dashboard" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="Media/Dashboard - Personalized User Space.png" width="90%" alt="Dashboard" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 </div>
 
