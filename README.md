@@ -89,19 +89,39 @@ graph TD
 
 ## **🎯 Interface Showcase**
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
 
-### **Landing Page** - *Your Gateway to Secure Access*
-<img src="Media/Landing Page - Your Gateway to Secure Access.png" width="90%" alt="Landing Page" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="text-align: center; flex: 1; min-width: 200px;">
+<a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Landing%20Page%20-%20Your%20Gateway%20to%20Secure%20Access.png">
+<img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Landing%20Page%20-%20Your%20Gateway%20to%20Secure%20Access.png" width="180" height="120" alt="Landing Page" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+</a>
+<br>
+<strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Landing%20Page%20-%20Your%20Gateway%20to%20Secure%20Access.png">Landing Page</a></strong>
+</div>
 
-### **Registration** - *One-Time Face Enrollment*
-<img src="Media/Registration - One-Time Face Enrollment.png" width="90%" alt="Registration" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="text-align: center; flex: 1; min-width: 200px;">
+<a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Registration%20-%20One-Time%20Face%20Enrollment.png">
+<img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Registration%20-%20One-Time%20Face%20Enrollment.png" width="180" height="120" alt="Registration" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+</a>
+<br>
+<strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Registration%20-%20One-Time%20Face%20Enrollment.png">Registration</a></strong>
+</div>
 
-### **Authentication** - *Seamless Face Recognition*
-<img src="Media/Authentication - Seamless Face Recognition.png" width="90%" alt="Login" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="text-align: center; flex: 1; min-width: 200px;">
+<a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Authentication%20-%20Seamless%20Face%20Recognition.png">
+<img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Authentication%20-%20Seamless%20Face%20Recognition.png" width="180" height="120" alt="Authentication" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+</a>
+<br>
+<strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Authentication%20-%20Seamless%20Face%20Recognition.png">Authentication</a></strong>
+</div>
 
-### **Dashboard** - *Personalized User Space*
-<img src="Media/Dashboard - Personalized User Space.png" width="90%" alt="Dashboard" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<div style="text-align: center; flex: 1; min-width: 200px;">
+<a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Dashboard%20-%20Personalized%20User%20Space.png">
+<img src="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Dashboard%20-%20Personalized%20User%20Space.png" width="180" height="120" alt="Dashboard" style="border-radius: 8px; border: 2px solid #e1e4e8;">
+</a>
+<br>
+<strong><a href="https://github.com/JayChavan01/Face-Recognition-Authentication-System/blob/main/Media/Dashboard%20-%20Personalized%20User%20Space.png">Dashboard</a></strong>
+</div>
 
 </div>
 
@@ -321,3 +341,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Built with ❤️ by [Jay Chavan]** • **Making Authentication Seamless & Secure**
 
 </div>
+
