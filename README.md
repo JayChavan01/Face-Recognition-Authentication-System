@@ -1,4 +1,4 @@
-# **👤 Real-Time Facial Recognition Authentication System*  
+# **👤 Real-Time Facial Recognition Authentication System**  
 🔒 *Enterprise-Grade Biometric Security Built with Python & Django*  
 
 ---
